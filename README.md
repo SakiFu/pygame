@@ -1,3 +1,3 @@
 # pygame
 
-Pygame code from New Coder http://newcoder.io/
+Pygame code from Open Hatch https://openhatch.org
